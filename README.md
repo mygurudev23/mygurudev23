@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 Add documentation
 Update dependencies
 Polish UI layout
+Improve performance
