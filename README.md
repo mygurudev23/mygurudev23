@@ -27,3 +27,4 @@ Update configuration
 Update configuration
 Fix bug in feature X
 Add documentation
+Refactor core logic
