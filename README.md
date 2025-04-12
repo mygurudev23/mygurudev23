@@ -20,3 +20,4 @@ Polish UI layout
 Improve performance
 Polish UI layout
 Tweak margin and padding
+Add test cases
