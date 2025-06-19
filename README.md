@@ -18,3 +18,4 @@ Add documentation
 Update dependencies
 Polish UI layout
 Improve performance
+Polish UI layout
